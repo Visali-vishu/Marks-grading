@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+ int marks;
+ printf("\n enter your marks");
+ scanf("%d",&marks);
+ if(marks=85)
+  printf("grade a");
+ else 
+  printf("grade f");
+  
+  return 0;
+ }
